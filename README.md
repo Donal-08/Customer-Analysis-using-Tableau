@@ -1,5 +1,5 @@
 # Customer-Analysis-using-Tableau
-This repository contains the data source [sales_06_FY2020-21.csv.zip](https://github.com/Donal-08/Customer-Analysis-using-Tableau) and the corresponding tableau workbook [CustomerAnalysis.twb](https://github.com/Donal-08/Customer-Analysis-using-Tableau) used to analyse different aspects of the customers and sales. 
+This repository contains the data source [sales_06_FY2020-21.csv.zip](https://github.com/Donal-08/Customer-Analysis-using-Tableau/blob/main/sales_06_FY2020-21.csv.zip) and the corresponding tableau workbook [CustomerAnalysis.twb](https://github.com/Donal-08/Customer-Analysis-using-Tableau) used to analyse different aspects of the customers and sales. 
 
 ## Getting Started 
 1. Clone the repository by typing the command
